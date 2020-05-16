@@ -6,7 +6,7 @@ namespace acmicpc5622
     {
         static void Main(string[] args)
         {
-            // numbers for the alphabet
+            // numbers for the alphabets
             int[] num = 
             {
                 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5,

@@ -16,7 +16,7 @@ namespace acmicpc5622
             {
                 'A','B','C','D','E','F','G','H','I','J','K','L','M','N'
                 ,'O','P','Q','R','S','T','U','V','W','X','Y','Z'
-            };
+            }; 
 
             int times = 0;      // total times for call_number
             int basic_time = 2; // to dial "1" need 2 seconds

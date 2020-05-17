@@ -16,6 +16,6 @@ namespace acmicpc2941
             }
 
             Console.WriteLine(input.Length);
-        } 
+        }
     }
 }
